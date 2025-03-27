@@ -1,8 +1,10 @@
 ## Hi, I'm Mark!
 
-### I'm an aspiring Data Scientist with a background in Physics research (PhD) and Web Development & Marketing
+#### I'm originally from the UK, however, I’ve lived and worked in a number of European countries and even learned the languages–unsual for a Brit, I know, but I like to immerse myself in the culture! 
 
-### I'm currently retraining as a Data Scientist at Le Wagon, having been accepted for their Data Science & AI course
+#### I'm an aspiring Data Scientist with a background in Physics research (PhD) and Web Development & Marketing
+
+#### I'm currently retraining as a Data Scientist at Le Wagon, having been accepted for their Data Science & AI course
 
 <!--
 **zenderruis/zenderruis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
